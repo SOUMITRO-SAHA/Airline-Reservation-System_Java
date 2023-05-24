@@ -2,7 +2,16 @@
 
 ## Description
 
-This project focuses on the technologies used in the Airline Reservation System and emphasizes the importance of understanding them. The system includes a Graphical User Interface (GUI) built using the Java Swing library, which consists of buttons, text fields, and other graphical elements for user interaction. Java Swing is a powerful library that provides various features and functionality, making it essential for building the project's front end. The video also highlights the significance of learning different libraries as a Java developer. Components such as JFrame, JButton, and JPanel from Java Swing will be utilized to create the project's user interface. The video concludes by mentioning upcoming technologies and tools to be incorporated into the project.
+This project focuses on the technologies used in the Airline Reservation System and emphasizes the importance of understanding them. The system includes a Graphical User Interface (GUI) built using the Java Swing library, which consists of buttons, text fields, and other graphical elements for user interaction. Java Swing is an incredibly robust library that offers a wide array of features and functionality, making it indispensable for constructing the front end of a project. To design the user interface for the project, we will leverage essential components like JFrame, JButton, and JPanel from the Java Swing framework.
+
+## Tech. Stack
+
+- Java Swing: A powerful library for developing graphical user interfaces (GUIs).
+- Core Java: The foundation of the project, providing essential libraries and tools for general-purpose programming.
+- OOPs: Object-Oriented Programming principles guide the development approach, promoting modular design and code reusability.
+- Database: Integration of a database for data persistence and efficient data management.
+- SQL: The use of Structured Query Language for managing relational databases, allowing for querying, inserting, updating, and deleting data.
+- JDBC: Java Database Connectivity enables seamless communication and integration between the Java application and the database.
 
 ## Pictures
 
@@ -22,7 +31,3 @@ Soumitra Saha
 twitter: https://twitter.com/SoumitraSaha100/
 
 linkedin: https://www.linkedin.com/in/soumitra-saha-a9810622a/
-
-## Time Taken
-
-15 Hours
